@@ -1,0 +1,5 @@
+﻿  Solution16.cpp
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\Solution16\Solution16\Solution16.cpp(20,25): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\Solution16\Solution16\Solution16.cpp(24,25): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\Solution16\Solution16\Solution16.cpp(28,25): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Solution16.vcxproj -> C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\Solution16\x64\Debug\Solution16.exe

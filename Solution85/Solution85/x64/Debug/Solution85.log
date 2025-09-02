@@ -1,0 +1,3 @@
+﻿  Solution85.cpp
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day18\Solution85\Solution85\Solution85.cpp(24,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Solution85.vcxproj -> C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day18\Solution85\x64\Debug\Solution85.exe

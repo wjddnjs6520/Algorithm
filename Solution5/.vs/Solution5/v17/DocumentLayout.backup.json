@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day1\\Solution5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3B1042-A24C-4933-B595-127238935530}|Solution5\\Solution5.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day1\\Solution5\\Solution5\\Solution5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE3B1042-A24C-4933-B595-127238935530}|Solution5\\Solution5.vcxproj|solutionrelative:Solution5\\Solution5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution5.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day1\\Solution5\\Solution5\\Solution5.cpp",
+              "RelativeDocumentMoniker": "Solution5\\Solution5.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day1\\Solution5\\Solution5\\Solution5.cpp",
+              "RelativeToolTip": "Solution5\\Solution5.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T02:08:52.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

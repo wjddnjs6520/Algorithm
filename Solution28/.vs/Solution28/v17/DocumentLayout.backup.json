@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day3\\Solution28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E243F-6591-4755-8DB4-2A2A03FB9AB8}|Solution28\\Solution28.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day3\\Solution28\\Solution28\\Solution28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44E243F-6591-4755-8DB4-2A2A03FB9AB8}|Solution28\\Solution28.vcxproj|solutionrelative:Solution28\\Solution28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution28.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day3\\Solution28\\Solution28\\Solution28.cpp",
+              "RelativeDocumentMoniker": "Solution28\\Solution28.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day3\\Solution28\\Solution28\\Solution28.cpp*",
+              "RelativeToolTip": "Solution28\\Solution28.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T02:09:32.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

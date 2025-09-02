@@ -1,0 +1,3 @@
+﻿  Solution77.cpp
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day14\Solution77\Solution77\Solution77.cpp(36,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Solution77.vcxproj -> C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day14\Solution77\x64\Debug\Solution77.exe

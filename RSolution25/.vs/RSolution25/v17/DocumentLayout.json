@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day26\\RSolution25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3CFE3A-AC5D-466F-BC13-E1BA9D456497}|RSolution25\\RSolution25.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day26\\RSolution25\\RSolution25\\RSolution25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B3CFE3A-AC5D-466F-BC13-E1BA9D456497}|RSolution25\\RSolution25.vcxproj|solutionrelative:RSolution25\\RSolution25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RSolution25.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day26\\RSolution25\\RSolution25\\RSolution25.cpp",
+              "RelativeDocumentMoniker": "RSolution25\\RSolution25.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day26\\RSolution25\\RSolution25\\RSolution25.cpp",
+              "RelativeToolTip": "RSolution25\\RSolution25.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T00:46:12.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

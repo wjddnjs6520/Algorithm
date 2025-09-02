@@ -1,0 +1,4 @@
+﻿  Solution73.cpp
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day12\Solution73\Solution73\Solution73.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day12\Solution73\Solution73\Solution73.cpp(10,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Solution73.vcxproj -> C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day12\Solution73\x64\Debug\Solution73.exe

@@ -1,0 +1,7 @@
+﻿  Solution87.cpp
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day19\Solution87\Solution87\Solution87.cpp(11,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day19\Solution87\Solution87\Solution87.cpp(11,19): warning C4244:         with
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day19\Solution87\Solution87\Solution87.cpp(11,19): warning C4244:         [
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day19\Solution87\Solution87\Solution87.cpp(11,19): warning C4244:             _Ty=__int64
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day19\Solution87\Solution87\Solution87.cpp(11,19): warning C4244:         ]
+  Solution87.vcxproj -> C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day19\Solution87\x64\Debug\Solution87.exe

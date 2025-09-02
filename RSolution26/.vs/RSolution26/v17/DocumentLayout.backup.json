@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day27\\RSolution26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEB3240-D913-4E47-96A7-49AED7F16F4B}|RSolution26\\RSolution26.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day27\\RSolution26\\RSolution26\\RSolution26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFEB3240-D913-4E47-96A7-49AED7F16F4B}|RSolution26\\RSolution26.vcxproj|solutionrelative:RSolution26\\RSolution26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RSolution26.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day27\\RSolution26\\RSolution26\\RSolution26.cpp",
+              "RelativeDocumentMoniker": "RSolution26\\RSolution26.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day27\\RSolution26\\RSolution26\\RSolution26.cpp",
+              "RelativeToolTip": "RSolution26\\RSolution26.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T00:02:22.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

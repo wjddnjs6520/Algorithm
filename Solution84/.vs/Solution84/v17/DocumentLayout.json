@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day17\\Solution84\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE79AC2-2E5E-447D-96CF-4A60C798336D}|Solution84\\Solution84.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day17\\Solution84\\Solution84\\Solution84.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABE79AC2-2E5E-447D-96CF-4A60C798336D}|Solution84\\Solution84.vcxproj|solutionrelative:Solution84\\Solution84.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution84.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day17\\Solution84\\Solution84\\Solution84.cpp",
+              "RelativeDocumentMoniker": "Solution84\\Solution84.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day17\\Solution84\\Solution84\\Solution84.cpp",
+              "RelativeToolTip": "Solution84\\Solution84.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-25T00:28:25.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

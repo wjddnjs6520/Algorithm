@@ -1,0 +1,7 @@
+﻿  solution17.cpp
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\solution17\solution17\solution17.cpp(14,22): warning C4244: '인수': '__int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\solution17\solution17\solution17.cpp(14,22): warning C4244:         with
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\solution17\solution17\solution17.cpp(14,22): warning C4244:         [
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\solution17\solution17\solution17.cpp(14,22): warning C4244:             _Ty=int
+C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\solution17\solution17\solution17.cpp(14,22): warning C4244:         ]
+  solution17.vcxproj -> C:\Users\seocom\Documents\GitHub\AlgorithmCpp\Day2\solution17\x64\Debug\solution17.exe

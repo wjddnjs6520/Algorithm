@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day10\\Solution67\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F12E8C9-8D68-4AAD-8FA6-D2E756480997}|Solution67\\Solution67.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day10\\Solution67\\Solution67\\Solution67.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F12E8C9-8D68-4AAD-8FA6-D2E756480997}|Solution67\\Solution67.vcxproj|solutionrelative:Solution67\\Solution67.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution67.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day10\\Solution67\\Solution67\\Solution67.cpp",
+              "RelativeDocumentMoniker": "Solution67\\Solution67.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day10\\Solution67\\Solution67\\Solution67.cpp",
+              "RelativeToolTip": "Solution67\\Solution67.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T00:02:00.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

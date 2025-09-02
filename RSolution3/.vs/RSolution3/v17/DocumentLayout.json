@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day22\\RSolution3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C9F6D0-0A94-4ECD-AACA-8DEAA2039EAB}|RSolution3\\RSolution3.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day22\\RSolution3\\RSolution3\\RSolution3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6C9F6D0-0A94-4ECD-AACA-8DEAA2039EAB}|RSolution3\\RSolution3.vcxproj|solutionrelative:RSolution3\\RSolution3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RSolution3.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day22\\RSolution3\\RSolution3\\RSolution3.cpp",
+              "RelativeDocumentMoniker": "RSolution3\\RSolution3.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\AlgorithmCpp\\Day22\\RSolution3\\RSolution3\\RSolution3.cpp",
+              "RelativeToolTip": "RSolution3\\RSolution3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T00:58:47.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
