@@ -1,0 +1,3 @@
+﻿  Solution109.cpp
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution109\Solution109\Solution109.cpp(6,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Solution109.vcxproj -> C:\Users\seocom\Documents\GitHub\Algorithm\Solution109\x64\Debug\Solution109.exe

@@ -1,0 +1,6 @@
+﻿  Solution111.cpp
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution111\Solution111\Solution111.cpp(8,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution111\Solution111\Solution111.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution111\Solution111\Solution111.cpp(31,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution111\Solution111\Solution111.cpp(32,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Solution111.vcxproj -> C:\Users\seocom\Documents\GitHub\Algorithm\Solution111\x64\Debug\Solution111.exe

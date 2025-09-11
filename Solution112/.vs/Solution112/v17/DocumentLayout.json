@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution112\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9253785D-1699-42E1-900E-AEA7568905D7}|Solution112\\Solution112.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution112\\Solution112\\Solution112.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9253785D-1699-42E1-900E-AEA7568905D7}|Solution112\\Solution112.vcxproj|solutionrelative:Solution112\\Solution112.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution112.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution112\\Solution112\\Solution112.cpp",
+              "RelativeDocumentMoniker": "Solution112\\Solution112.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution112\\Solution112\\Solution112.cpp",
+              "RelativeToolTip": "Solution112\\Solution112.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAkwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T00:22:43.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
