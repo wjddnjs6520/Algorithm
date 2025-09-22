@@ -1,0 +1,7 @@
+﻿  Solution114.cpp
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution114\Solution114\Solution114.cpp(19,29): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution114\Solution114\Solution114.cpp(19,29): warning C4244:         with
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution114\Solution114\Solution114.cpp(19,29): warning C4244:         [
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution114\Solution114\Solution114.cpp(19,29): warning C4244:             _Ty=int
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution114\Solution114\Solution114.cpp(19,29): warning C4244:         ]
+  Solution114.vcxproj -> C:\Users\seocom\Documents\GitHub\Algorithm\Solution114\x64\Debug\Solution114.exe

@@ -1,0 +1,3 @@
+﻿  Solution115.cpp
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution115\Solution115\Solution115.cpp(39,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Solution115.vcxproj -> C:\Users\seocom\Documents\GitHub\Algorithm\Solution115\x64\Debug\Solution115.exe

@@ -1,0 +1,3 @@
+﻿  Solution116.cpp
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution116\Solution116\Solution116.cpp(11,25): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Solution116.vcxproj -> C:\Users\seocom\Documents\GitHub\Algorithm\Solution116\x64\Debug\Solution116.exe
