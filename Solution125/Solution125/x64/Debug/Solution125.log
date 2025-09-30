@@ -1,0 +1,7 @@
+﻿  Solution125.cpp
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution125\Solution125\Solution125.cpp(23,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution125\Solution125\Solution125.cpp(23,34): warning C4267:         with
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution125\Solution125\Solution125.cpp(23,34): warning C4267:         [
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution125\Solution125\Solution125.cpp(23,34): warning C4267:             _Ty=int
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution125\Solution125\Solution125.cpp(23,34): warning C4267:         ]
+  Solution125.vcxproj -> C:\Users\seocom\Documents\GitHub\Algorithm\Solution125\x64\Debug\Solution125.exe

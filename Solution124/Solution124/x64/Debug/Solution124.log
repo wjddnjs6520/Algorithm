@@ -1,0 +1,6 @@
+﻿  Solution124.cpp
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution124\Solution124\Solution124.cpp(10,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution124\Solution124\Solution124.cpp(11,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution124\Solution124\Solution124.cpp(47,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution124\Solution124\Solution124.cpp(48,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Solution124.vcxproj -> C:\Users\seocom\Documents\GitHub\Algorithm\Solution124\x64\Debug\Solution124.exe
