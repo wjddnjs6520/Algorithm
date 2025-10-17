@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution128\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5241D1-A52E-447F-A8E1-ABE10B1F7B78}|Solution128\\Solution128.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution128\\Solution128\\Solution128.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF5241D1-A52E-447F-A8E1-ABE10B1F7B78}|Solution128\\Solution128.vcxproj|solutionrelative:Solution128\\Solution128.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution128.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution128\\Solution128\\Solution128.cpp",
+              "RelativeDocumentMoniker": "Solution128\\Solution128.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution128\\Solution128\\Solution128.cpp",
+              "RelativeToolTip": "Solution128\\Solution128.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T00:20:45.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  Solution127.cpp
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution127\Solution127\Solution127.cpp(16,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seocom\Documents\GitHub\Algorithm\Solution127\Solution127\Solution127.cpp(17,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Solution127.vcxproj -> C:\Users\seocom\Documents\GitHub\Algorithm\Solution127\x64\Debug\Solution127.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution126\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{292D4D98-A402-4705-ACCB-868093C6E0BC}|Solution126\\Solution126.vcxproj|C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution126\\Solution126\\Solution126.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{292D4D98-A402-4705-ACCB-868093C6E0BC}|Solution126\\Solution126.vcxproj|solutionrelative:Solution126\\Solution126.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution126.cpp",
+              "DocumentMoniker": "C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution126\\Solution126\\Solution126.cpp",
+              "RelativeDocumentMoniker": "Solution126\\Solution126.cpp",
+              "ToolTip": "C:\\Users\\seocom\\Documents\\GitHub\\Algorithm\\Solution126\\Solution126\\Solution126.cpp",
+              "RelativeToolTip": "Solution126\\Solution126.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-02T06:50:33.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
